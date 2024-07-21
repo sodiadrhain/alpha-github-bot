@@ -1,8 +1,8 @@
 # HNG-DevOps-1(Alpha Bot) Documentation
 
-## OVERVIEW
+## Overview
 
-When it comes to software development a robust CI/CD (Continuous Integration/Continuous Deployment) system is a must and inexcusable.
+When it comes to software development a robust CI/CD (Continuous Integration/Continuous Deployment) system is a mustt, its inexcusable.
 
 One such CI/CD system you could have in place is this custom **Alpha bot**, a `Node.js` application. The bot automates building, deploying and merging pull requests (PRs)—every pull request automatically get its own testing environment, isolated from the main codebase.
 
@@ -126,7 +126,7 @@ REPOSITORY    TAG       IMAGE ID       SIZE
 hello-world   latest    d2c94e258dcb   13.26kB
 ```
 
-### ngrok Installation
+### Ngrok Installation
 
 ngrok is a powerful tool that allows you to expose your local development environment to the internet. This is particularly useful for testing webhooks (which we will be doing at the end of this deployment).
 
@@ -213,13 +213,16 @@ NGROK_AUTH_TOKEN=your_ngrok_auth_token
 
 ### Step 2. Integrate the GitHub App With the Intended Repo
 
-1. To install the GitHub app you just created, click on **Public page** on the side panel
+1. To install the alpha-bot app, go to the **Github Marketplace** and search for **alpha-bot**
+   ![market place](images/marketplace.png) 
+
+2. click on **Public page** on the side panel
    ![public page](images/public%20page.png)
 
-2. On your app's public page, click the green **Install** button
+3. On your app's public page, click the green **Install** button
    ![install the bot](images/installing%20the%20app.png)
 
-3. Next, select the repo you want the bot to work on
+4. Next, select the repo you want the bot to work on
    ![repo permissions](images/install%20on%20repo.png)
 
 ### Step 4: Code Blocks Explanation
@@ -505,7 +508,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"test":"data"}' https://<n
 | Name                 | LinkedIn                                                                                     |
 |----------------------|----------------------------------------------------------------------------------------------|
 | Adesoji Awobajo    | <a href="https://www.linkedin.com/in/adesoji-awobajo" target="_blank">Adesoji Awobajo</a>                                                                                    |
-| Raji Risikat Yewande | <a href="https://www.linkedin.com/in/raji-risikat-yewande" target="_blank>Raji Risikat Yewande</a>
+| Raji Risikat Yewande | <a href="https://www.linkedin.com/in/raji-risikat-yewande" target="_blank">Raji Risikat Yewande</a>
 | Toluwalemi Oluwadare | <a href="https://www.linkedin.com/in/toluwalemioluwadare/" target="_blank">Toluwalemi Oluwadare</a>
 | Oluwatosin Dorcas    | <a href="https://www.linkedin.com/in/oluwatosin-dorcas-b69767179?" target="_blank">Oluwatosin Dorcas</a>
 | Shirlyne Thiong'o    | <a href="https://www.linkedin.com/in/shirlyne-thiong-o-639aa8261/" target="_blank">Shirlyne Thiong'o</a>
