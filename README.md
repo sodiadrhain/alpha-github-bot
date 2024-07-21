@@ -508,5 +508,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"test":"data"}' https://<n
 
 | Kenneth Mahon oigiangbe  | [Kenneth Mahon](https://www.linkedin.com/in/kenneth-mahon-b61648163/) |
 
+| Abdul-Barri Lawal  | [Abdul Barri Lawal](https://www.linkedin.com/in/abdul-barri-lawal/) |
 
 ## Licence
