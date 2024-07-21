@@ -503,8 +503,8 @@ curl -X POST -H "Content-Type: application/json" -d '{"test":"data"}' https://<n
 # Project Team Contributors
 
 | Name                     | LinkedIn 
-| Owoseni Emmanuel         | Owoseni Emmanuel |
-| Kenneth Mahon oigiangbe  | Kenneth Mahon |
+| Owoseni Emmanuel         | [Owoseni Emmanuel](https://www.linkedin.com/in/owoseni-emmanuel-2310aa162/) |
+| Kenneth Mahon oigiangbe  | [Kenneth Mahon](https://www.linkedin.com/in/kenneth-mahon-b61648163/) |
 
 
 ## Licence
