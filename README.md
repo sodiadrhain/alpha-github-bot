@@ -502,9 +502,9 @@ curl -X POST -H "Content-Type: application/json" -d '{"test":"data"}' https://<n
 
 # Project Team Contributors
 
-| Name     | LinkedIn |
-| -------- | -------- |
-| John Doe | link.com |
-| Jane Doe | link.com |
+| Name                     | LinkedIn 
+| Owoseni Emmanuel         | Owoseni Emmanuel |
+| Kenneth Mahon oigiangbe  | Kenneth Mahon |
+
 
 ## Licence
