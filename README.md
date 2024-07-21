@@ -504,8 +504,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"test":"data"}' https://<n
 
 | Name                     | LinkedIn 
 
-| Owoseni Emmanuel         | <a href="https://www.linkedin.com/in/owoseni-emmanuel-2310aa162/" target="_blank">Owoseni Emmanuel</a>
- |
 
 | Kenneth Mahon oigiangbe  | <a href="https://www.linkedin.com/in/kenneth-mahon-b61648163/" target="_blank">Kenneth Mahon</a>
  |
